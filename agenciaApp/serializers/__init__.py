@@ -1,0 +1,8 @@
+from agenciaApp.serializers.accountSerializer import AccountSerializer
+from agenciaApp.serializers.userSerializer import UserSerializer
+from agenciaApp.serializers.aerolineaSerializer import AerolineaSerializer
+from agenciaApp.serializers.facturaSerializer import FacturaSerializer
+from agenciaApp.serializers.reservaSerializer import ReservaSerializer
+from agenciaApp.serializers.ventaSerializer import VentaSerializer
+from agenciaApp.serializers.vueloSerializer import VueloSerializer
+
